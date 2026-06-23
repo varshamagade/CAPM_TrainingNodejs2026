@@ -1,1 +1,3 @@
-console.log("Welcome to CAP Training");git commit -m "message"
+console.log("Welcome to CAP Training");
+
+console.log("Welcome to CAP Training added new message in app.js");
