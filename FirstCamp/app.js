@@ -1,1 +1,1 @@
-console.log("Welcome to CAP Training");
+console.log("Welcome to CAP Training");git commit -m "message"
