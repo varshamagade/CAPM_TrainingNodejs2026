@@ -1,0 +1,24 @@
+{
+  "name": "capm_trainingnodejs2026",
+  "version": "1.0.0",
+  "description": "CAPM Training Nodejs 2026",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varshamagade/CAPM_TrainingNodejs2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varshamagade/CAPM_TrainingNodejs2026/issues"
+  },
+  "homepage": "https://github.com/varshamagade/CAPM_TrainingNodejs2026#readme",
+  "dependencies": {
+    "dayjs": "^1.11.21",
+    "express": "^5.2.1"
+  }
+}

@@ -1,0 +1,12 @@
+
+[
+    { 
+        "id": 1, 
+        "task": "Learn Node.js", 
+        "status": "pending" 
+    },
+    {   "id": 2, 
+        "task": "Build Task Manager", 
+        "status": "completed" 
+    }
+]
